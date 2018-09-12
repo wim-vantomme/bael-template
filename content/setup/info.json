@@ -19,6 +19,11 @@
       "name": "Netlify",
       "position": "2",
       "link": "https://www.netlify.com/"
+    },
+    {
+      "name": "TEst",
+      "position": "4",
+      "link": "contact"
     }
   ]
 }
